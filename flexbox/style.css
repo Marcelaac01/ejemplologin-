@@ -1,0 +1,12 @@
+.elemento{
+    width: 30%;
+    display:flex;
+    justify-content:center;
+}
+.contenedor{
+    display: flex;
+
+}
+img{
+    width: 80%;
+}

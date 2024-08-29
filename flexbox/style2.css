@@ -1,0 +1,15 @@
+.elemento{
+    width:30%;
+    display: flex;
+    justify-content: center;
+    gap: 10PX;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+   
+}
+img{
+    width: 30%;
+    
+}
